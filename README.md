@@ -1,2 +1,8 @@
 # beginner_engineer
-For myself. Assortment for beginner engineers.
+自分用に基礎のキをまとめるリポジトリです。
+
+# 目的
+- 何度もググってしまった内容をまとめて残す
+- 言語等に問わず
+- ソフトウェア、システムの使い方で迷ったことも残していきたい
+
